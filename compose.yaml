@@ -1,0 +1,15 @@
+services:
+  proxy:
+    image: yasiru1999/proxy
+    ports:
+      - "5000:80"
+
+  sales:
+    image: yasiru1999/sales-micro-app
+    ports:
+      - "5001:80"
+
+  finance:
+    image: yasiru1999/finance-micro-app
+    ports:
+      - "5002:80"
