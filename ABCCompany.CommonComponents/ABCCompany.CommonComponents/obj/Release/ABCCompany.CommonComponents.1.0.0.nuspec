@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ABCCompany.CommonComponents</id>
+    <version>1.0.0</version>
+    <authors>ABCCompany.CommonComponents</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="7.0.17" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\YasiruS\source\repos\ABCCompany.CommonComponents\ABCCompany.CommonComponents\bin\Release\net7.0\ABCCompany.CommonComponents.dll" target="lib\net7.0\ABCCompany.CommonComponents.dll" />
+    <file src="C:\Users\YasiruS\source\repos\ABCCompany.CommonComponents\ABCCompany.CommonComponents\obj\Release\net7.0\scopedcss\projectbundle\ABCCompany.CommonComponents.bundle.scp.css" target="staticwebassets\ABCCompany.CommonComponents.bundle.scp.css" />
+    <file src="C:\Users\YasiruS\source\repos\ABCCompany.CommonComponents\ABCCompany.CommonComponents\wwwroot\background.png" target="staticwebassets\background.png" />
+    <file src="C:\Users\YasiruS\source\repos\ABCCompany.CommonComponents\ABCCompany.CommonComponents\wwwroot\exampleJsInterop.js" target="staticwebassets\exampleJsInterop.js" />
+    <file src="C:\Users\YasiruS\source\repos\ABCCompany.CommonComponents\ABCCompany.CommonComponents\obj\Release\net7.0\staticwebassets\msbuild.ABCCompany.CommonComponents.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="C:\Users\YasiruS\source\repos\ABCCompany.CommonComponents\ABCCompany.CommonComponents\obj\Release\net7.0\staticwebassets\msbuild.build.ABCCompany.CommonComponents.props" target="build\ABCCompany.CommonComponents.props" />
+    <file src="C:\Users\YasiruS\source\repos\ABCCompany.CommonComponents\ABCCompany.CommonComponents\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.ABCCompany.CommonComponents.props" target="buildMultiTargeting\ABCCompany.CommonComponents.props" />
+    <file src="C:\Users\YasiruS\source\repos\ABCCompany.CommonComponents\ABCCompany.CommonComponents\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.ABCCompany.CommonComponents.props" target="buildTransitive\ABCCompany.CommonComponents.props" />
+  </files>
+</package>
