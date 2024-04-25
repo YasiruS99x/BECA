@@ -1,21 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\",
+  "WorkspaceRootPath": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7FD5AF5-D547-4722-9DFA-4536E1733342}|SalesMicroApp\\SalesMicroApp.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\salesmicroapp\\salesmicroapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C7FD5AF5-D547-4722-9DFA-4536E1733342}|SalesMicroApp\\SalesMicroApp.csproj|solutionrelative:salesmicroapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7FD5AF5-D547-4722-9DFA-4536E1733342}|SalesMicroApp\\SalesMicroApp.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\salesmicroapp\\salesmicroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7FD5AF5-D547-4722-9DFA-4536E1733342}|SalesMicroApp\\SalesMicroApp.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\salesmicroapp\\salesmicroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7FD5AF5-D547-4722-9DFA-4536E1733342}|SalesMicroApp\\SalesMicroApp.csproj|solutionrelative:salesmicroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7FD5AF5-D547-4722-9DFA-4536E1733342}|SalesMicroApp\\SalesMicroApp.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\salesmicroapp\\salesmicroapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FD5AF5-D547-4722-9DFA-4536E1733342}|SalesMicroApp\\SalesMicroApp.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\salesmicroapp\\salesmicroapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7FD5AF5-D547-4722-9DFA-4536E1733342}|SalesMicroApp\\SalesMicroApp.csproj|solutionrelative:salesmicroapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7FD5AF5-D547-4722-9DFA-4536E1733342}|SalesMicroApp\\SalesMicroApp.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\salesmicroapp\\salesmicroapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C7FD5AF5-D547-4722-9DFA-4536E1733342}|SalesMicroApp\\SalesMicroApp.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\salesmicroapp\\salesmicroapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7FD5AF5-D547-4722-9DFA-4536E1733342}|SalesMicroApp\\SalesMicroApp.csproj|solutionrelative:salesmicroapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -26,30 +25,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Dockerfile",
-              "RelativeDocumentMoniker": "SalesMicroApp\\Dockerfile",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Dockerfile",
               "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Dockerfile",
-              "RelativeToolTip": "SalesMicroApp\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Dockerfile",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-25T05:41:20.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:41:20.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Program.cs",
               "RelativeDocumentMoniker": "SalesMicroApp\\Program.cs",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Program.cs",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Program.cs",
               "RelativeToolTip": "SalesMicroApp\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAUwAwAAAAaAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T04:40:47.195Z",
               "EditorCaption": ""
@@ -58,9 +55,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Shared\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "SalesMicroApp\\Shared\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\Shared\\MainLayout.razor",
               "RelativeToolTip": "SalesMicroApp\\Shared\\MainLayout.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -70,9 +67,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\_Imports.razor",
               "RelativeDocumentMoniker": "SalesMicroApp\\_Imports.razor",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\_Imports.razor",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\_Imports.razor",
               "RelativeToolTip": "SalesMicroApp\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

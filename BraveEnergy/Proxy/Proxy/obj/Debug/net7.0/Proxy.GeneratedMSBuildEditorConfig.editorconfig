@@ -9,27 +9,27 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Proxy
 build_property.RootNamespace = Proxy
-build_property.ProjectDir = C:\Users\YasiruS\source\repos\BraveEnergy\Proxy\Proxy\
+build_property.ProjectDir = C:\Users\YasiruS\Documents\GitHub\BECA\BraveEnergy\Proxy\Proxy\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\YasiruS\source\repos\BraveEnergy\Proxy\Proxy
+build_property.MSBuildProjectDirectory = C:\Users\YasiruS\Documents\GitHub\BECA\BraveEnergy\Proxy\Proxy
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/YasiruS/source/repos/BraveEnergy/Proxy/Proxy/App.razor]
+[C:/Users/YasiruS/Documents/GitHub/BECA/BraveEnergy/Proxy/Proxy/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/YasiruS/source/repos/BraveEnergy/Proxy/Proxy/_Imports.razor]
+[C:/Users/YasiruS/Documents/GitHub/BECA/BraveEnergy/Proxy/Proxy/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/YasiruS/source/repos/BraveEnergy/Proxy/Proxy/Pages/Error.cshtml]
+[C:/Users/YasiruS/Documents/GitHub/BECA/BraveEnergy/Proxy/Proxy/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/YasiruS/source/repos/BraveEnergy/Proxy/Proxy/Pages/_Host.cshtml]
+[C:/Users/YasiruS/Documents/GitHub/BECA/BraveEnergy/Proxy/Proxy/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

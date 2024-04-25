@@ -548,11 +548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents.csproj",
+      "projectUniqueName": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents.csproj",
       "projectName": "ABCCompany.CommonComponents",
-      "projectPath": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents.csproj",
+      "projectPath": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents.csproj",
       "packagesPath": "C:\\Users\\YasiruS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\",
+      "outputPath": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\YasiruS\\AppData\\Roaming\\NuGet\\NuGet.Config",

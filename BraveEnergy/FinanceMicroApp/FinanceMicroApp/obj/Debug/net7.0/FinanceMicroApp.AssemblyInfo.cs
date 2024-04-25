@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinanceMicroApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37214a85ca53ef28a2640233556bf5feec2da3c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinanceMicroApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinanceMicroApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

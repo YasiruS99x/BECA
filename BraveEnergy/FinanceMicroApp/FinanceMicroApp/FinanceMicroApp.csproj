@@ -9,8 +9,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ABCCompany.CommonComponents" Version="1.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ABCCompany.CommonComponents">
+      <HintPath>..\..\..\ABCCompany.CommonComponents\ABCCompany.CommonComponents\bin\Debug\net7.0\ABCCompany.CommonComponents.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\FinanceMicroApp.csproj": {}
+    "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\FinanceMicroApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\FinanceMicroApp.csproj": {
+    "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\FinanceMicroApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\FinanceMicroApp.csproj",
+        "projectUniqueName": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\FinanceMicroApp.csproj",
         "projectName": "FinanceMicroApp",
-        "projectPath": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\FinanceMicroApp.csproj",
+        "projectPath": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\FinanceMicroApp.csproj",
         "packagesPath": "C:\\Users\\YasiruS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\obj\\",
+        "outputPath": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YasiruS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,10 +45,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "ABCCompany.CommonComponents": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.6, )"

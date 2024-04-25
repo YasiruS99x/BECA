@@ -1,26 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\",
+  "WorkspaceRootPath": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\proxy\\proxy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\proxy\\proxy\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\proxy\\proxy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\proxy\\proxy\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\proxy\\proxy\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\proxy\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\proxy\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\proxy\\proxy\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\proxy\\proxy\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\proxy\\proxy\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\proxy\\proxy\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,40 +37,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\App.razor",
-              "RelativeDocumentMoniker": "Proxy\\App.razor",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\App.razor",
-              "RelativeToolTip": "Proxy\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "DocumentIndex": 0,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Proxy\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Proxy\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T05:01:25.268Z",
+              "WhenOpened": "2024-04-25T16:32:53.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHQUAAAAAAAAAAAwwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-25T16:29:52.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\App.razor",
+              "RelativeDocumentMoniker": "Proxy\\App.razor",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\App.razor",
+              "RelativeToolTip": "Proxy\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T05:01:25.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Program.cs",
               "RelativeDocumentMoniker": "Proxy\\Program.cs",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\Program.cs",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Program.cs",
               "RelativeToolTip": "Proxy\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAIwB0AAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T04:56:33.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\_Imports.razor",
               "RelativeDocumentMoniker": "Proxy\\_Imports.razor",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\_Imports.razor",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\_Imports.razor",
               "RelativeToolTip": "Proxy\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -71,24 +103,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\appsettings.json",
               "RelativeDocumentMoniker": "Proxy\\appsettings.json",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\appsettings.json",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\appsettings.json",
               "RelativeToolTip": "Proxy\\appsettings.json",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAtAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-25T04:55:27.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T04:55:27.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\Pages\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Proxy\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Pages\\Error.cshtml",
               "RelativeToolTip": "Proxy\\Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

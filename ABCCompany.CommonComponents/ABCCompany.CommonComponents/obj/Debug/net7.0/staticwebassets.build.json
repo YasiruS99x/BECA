@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6I1oU9HwY+2pgY+uwDetgyFsKZNPfelo+tu9fCqTd8Y=",
+  "Hash": "43dmnKleEbzT7trujG8IKxRtuRAqxXhpfU++BUiVC6Y=",
   "Source": "ABCCompany.CommonComponents",
   "BasePath": "_content/ABCCompany.CommonComponents",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ABCCompany.CommonComponents\\wwwroot",
       "Source": "ABCCompany.CommonComponents",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\wwwroot\\",
       "BasePath": "_content/ABCCompany.CommonComponents",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ABCCompany.CommonComponents.styles.css",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ABCCompany.CommonComponents.styles.css",
       "SourceId": "ABCCompany.CommonComponents",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ABCCompany.CommonComponents",
       "RelativePath": "ABCCompany.CommonComponents.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ABCCompany.CommonComponents.styles.css"
+      "OriginalItemSpec": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ABCCompany.CommonComponents.styles.css"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ABCCompany.CommonComponents.bundle.scp.css",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ABCCompany.CommonComponents.bundle.scp.css",
       "SourceId": "ABCCompany.CommonComponents",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ABCCompany.CommonComponents",
       "RelativePath": "ABCCompany.CommonComponents.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ABCCompany.CommonComponents.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ABCCompany.CommonComponents.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\wwwroot\\background.png",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\wwwroot\\background.png",
       "SourceId": "ABCCompany.CommonComponents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\wwwroot\\",
       "BasePath": "_content/ABCCompany.CommonComponents",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\background.png"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\wwwroot\\exampleJsInterop.js",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\wwwroot\\exampleJsInterop.js",
       "SourceId": "ABCCompany.CommonComponents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\ABCCompany.CommonComponents\\ABCCompany.CommonComponents\\wwwroot\\",
       "BasePath": "_content/ABCCompany.CommonComponents",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",

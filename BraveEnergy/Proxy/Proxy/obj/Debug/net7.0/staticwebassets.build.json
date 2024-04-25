@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L7d1thpLLGktf7RbX8uDJMI7IwDtEpiBopYLmSGIHYI=",
+  "Hash": "Pu1i/ZbSLIe8O6xxrpKMkIxudbE5pewmp5zA4be/9QA=",
   "Source": "Proxy",
   "BasePath": "_content/Proxy",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Proxy\\wwwroot",
       "Source": "Proxy",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\css\\site.css",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\favicon.png",
       "SourceId": "Proxy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\wwwroot\\",
       "BasePath": "_content/Proxy",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

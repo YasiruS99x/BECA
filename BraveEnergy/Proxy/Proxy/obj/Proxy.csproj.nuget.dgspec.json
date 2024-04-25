@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\Proxy.csproj": {}
+    "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Proxy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\Proxy.csproj": {
+    "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Proxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\Proxy.csproj",
+        "projectUniqueName": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Proxy.csproj",
         "projectName": "Proxy",
-        "projectPath": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\Proxy.csproj",
+        "projectPath": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Proxy.csproj",
         "packagesPath": "C:\\Users\\YasiruS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\Proxy\\Proxy\\obj\\",
+        "outputPath": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YasiruS\\AppData\\Roaming\\NuGet\\NuGet.Config",

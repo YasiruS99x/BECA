@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gFn2LejZPkRB80JlReHpFaFnmbaynq3DftVJWTTPSt8=",
+  "Hash": "y/cimHQ64MbP+tfbufe4yFDIiuxbnQoQHe4v2LCYwHI=",
   "Source": "SalesMicroApp",
   "BasePath": "_content/SalesMicroApp",
   "Mode": "Default",
@@ -10,74 +10,17 @@
     {
       "Name": "SalesMicroApp\\wwwroot",
       "Source": "SalesMicroApp",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\YasiruS\\.nuget\\packages\\abccompany.commoncomponents\\1.0.0\\staticwebassets\\ABCCompany.CommonComponents.bundle.scp.css",
-      "SourceId": "ABCCompany.CommonComponents",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\YasiruS\\.nuget\\packages\\abccompany.commoncomponents\\1.0.0\\staticwebassets\\",
-      "BasePath": "_content/ABCCompany.CommonComponents",
-      "RelativePath": "ABCCompany.CommonComponents.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\YasiruS\\.nuget\\packages\\abccompany.commoncomponents\\1.0.0\\staticwebassets\\ABCCompany.CommonComponents.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\YasiruS\\.nuget\\packages\\abccompany.commoncomponents\\1.0.0\\staticwebassets\\background.png",
-      "SourceId": "ABCCompany.CommonComponents",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\YasiruS\\.nuget\\packages\\abccompany.commoncomponents\\1.0.0\\staticwebassets\\",
-      "BasePath": "_content/ABCCompany.CommonComponents",
-      "RelativePath": "background.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\YasiruS\\.nuget\\packages\\abccompany.commoncomponents\\1.0.0\\staticwebassets\\background.png"
-    },
-    {
-      "Identity": "C:\\Users\\YasiruS\\.nuget\\packages\\abccompany.commoncomponents\\1.0.0\\staticwebassets\\exampleJsInterop.js",
-      "SourceId": "ABCCompany.CommonComponents",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\YasiruS\\.nuget\\packages\\abccompany.commoncomponents\\1.0.0\\staticwebassets\\",
-      "BasePath": "_content/ABCCompany.CommonComponents",
-      "RelativePath": "exampleJsInterop.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\YasiruS\\.nuget\\packages\\abccompany.commoncomponents\\1.0.0\\staticwebassets\\exampleJsInterop.js"
-    },
-    {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\SalesMicroApp.styles.css",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\SalesMicroApp.styles.css",
       "SourceId": "SalesMicroApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "SalesMicroApp.styles.css",
       "AssetKind": "All",
@@ -90,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\SalesMicroApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\SalesMicroApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SalesMicroApp.bundle.scp.css",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SalesMicroApp.bundle.scp.css",
       "SourceId": "SalesMicroApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "SalesMicroApp.bundle.scp.css",
       "AssetKind": "All",
@@ -109,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SalesMicroApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SalesMicroApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -131,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -150,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -169,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -188,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -207,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -226,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -245,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -264,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -283,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -302,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -321,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\css\\site.css",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -340,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\favicon.png",
       "SourceId": "SalesMicroApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\SalesMicroApp\\SalesMicroApp\\wwwroot\\",
       "BasePath": "_content/SalesMicroApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

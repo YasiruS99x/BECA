@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\",
+  "WorkspaceRootPath": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\financemicroapp\\financemicroapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|solutionrelative:financemicroapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\financemicroapp\\financemicroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\financemicroapp\\financemicroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|solutionrelative:financemicroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\financemicroapp\\financemicroapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\financemicroapp\\financemicroapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|solutionrelative:financemicroapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\financemicroapp\\financemicroapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|solutionrelative:financemicroapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|c:\\users\\yasirus\\source\\repos\\braveenergy\\financemicroapp\\financemicroapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|solutionrelative:financemicroapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\financemicroapp\\financemicroapp\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4C3A245A-9311-467D-A909-86AAB934E01C}|FinanceMicroApp\\FinanceMicroApp.csproj|solutionrelative:financemicroapp\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Dockerfile",
-              "RelativeDocumentMoniker": "FinanceMicroApp\\Dockerfile",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Dockerfile",
-              "RelativeToolTip": "FinanceMicroApp\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-25T05:38:44.222Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceMicroApp\\Program.cs",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Program.cs",
+              "RelativeToolTip": "FinanceMicroApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:01:33.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Program.cs",
-              "RelativeDocumentMoniker": "FinanceMicroApp\\Program.cs",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Program.cs",
-              "RelativeToolTip": "FinanceMicroApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T04:38:56.445Z",
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "FinanceMicroApp\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Pages\\Index.razor",
+              "RelativeToolTip": "FinanceMicroApp\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T15:52:00.109Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "FinanceMicroApp\\Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "FinanceMicroApp\\Shared\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T15:20:40.002Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Shared\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "FinanceMicroApp\\Shared\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\Shared\\MainLayout.razor",
               "RelativeToolTip": "FinanceMicroApp\\Shared\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T04:37:34.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\_Imports.razor",
-              "RelativeDocumentMoniker": "FinanceMicroApp\\_Imports.razor",
-              "ToolTip": "C:\\Users\\YasiruS\\source\\repos\\BraveEnergy\\FinanceMicroApp\\FinanceMicroApp\\_Imports.razor",
-              "RelativeToolTip": "FinanceMicroApp\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T04:32:23.867Z"
+              "WhenOpened": "2024-04-25T15:19:50.622Z"
             }
           ]
         }
