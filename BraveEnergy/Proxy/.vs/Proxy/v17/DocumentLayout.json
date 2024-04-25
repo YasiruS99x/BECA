@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\proxy\\proxy\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\proxy\\proxy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\proxy\\proxy\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\proxy\\proxy\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|solutionrelative:proxy\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1512C933-A082-46F0-915D-5F8B0EE43E21}|Proxy\\Proxy.csproj|c:\\users\\yasirus\\documents\\github\\beca\\braveenergy\\proxy\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,24 +37,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Host.cshtml",
               "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "Proxy\\Pages\\_Host.cshtml",
               "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Pages\\_Host.cshtml",
               "RelativeToolTip": "Proxy\\Pages\\_Host.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-25T16:32:53.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAHQUAAAAAAAAAAAwwIUUAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-04-25T16:29:52.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T16:29:52.927Z"
             },
             {
               "$type": "Document",
@@ -103,19 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\appsettings.json",
               "RelativeDocumentMoniker": "Proxy\\appsettings.json",
               "ToolTip": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\appsettings.json",
               "RelativeToolTip": "Proxy\\appsettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-25T04:55:27.354Z"
+              "WhenOpened": "2024-04-25T04:55:27.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\YasiruS\\Documents\\GitHub\\BECA\\BraveEnergy\\Proxy\\Proxy\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Proxy\\Pages\\Error.cshtml",
@@ -123,7 +123,8 @@
               "RelativeToolTip": "Proxy\\Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T04:55:06.67Z"
+              "WhenOpened": "2024-04-25T04:55:06.67Z",
+              "EditorCaption": ""
             }
           ]
         }
